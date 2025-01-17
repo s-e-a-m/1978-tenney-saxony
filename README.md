@@ -1,2 +1,3 @@
-# sustained-electro-acoustic-musical-work-template-project
-Template for sustaining an Electro-Acoustic musical work within the SEAM project.
+# 1978 - James Tenney - Saxony
+
+Realisation of the Live Electronics environment for the performance of James Tenney's _Saxony_.
